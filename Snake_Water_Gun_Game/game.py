@@ -28,7 +28,7 @@ def game():
             print("\t\t\t\t\t|")
 
         # Print result label
-        print(" \t\t\t\t ", end="")
+        print("\n \t\t\t\t ", end="")
 
         # Determine the result
         if computer == user:
@@ -53,7 +53,7 @@ def game():
         print("Invalid Input. Please enter 1, 2, or 3.")
 
     # Ask if the user wants to play again
-    i = input("Do you want to play again (yes/no)? ").strip().lower()
+    i = input("\nDo you want to play again (yes/no)? ").strip().lower()
 
     if i == "yes":
         game()  # Recursively call the game again
