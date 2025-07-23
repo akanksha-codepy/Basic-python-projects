@@ -64,3 +64,4 @@ def game():
 
 # Start the game
 game()
+print("THANK YOU")
