@@ -23,4 +23,4 @@ If there’s ever a problem, you can reach me through GitHub or email (add your 
 Thanks for being awesome! 😊
 
 — Akanksha Uchale
-@akankshau2004@gmail.com
+akankshau2004@gmail.com
