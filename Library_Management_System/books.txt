@@ -1,0 +1,17 @@
+Available books are:
+
+1. The Great Gatsby by F. Scott Fitzgerald
+2. To Kill a Mockingbird by Harper Lee
+3. 1984 by George Orwell
+4. Pride and Prejudice by Jane Austen
+5. The Catcher in the Rye by J.D. Salinger
+6. The Hobbit by J.R.R. Tolkien
+7. Harry Potter and the Philosopher's Stone by J.K. Rowling
+8. The Alchemist by Paulo Coelho
+9. The Book Thief by Markus Zusak
+10. The Diary of a Young Girl by Anne Frank
+11. The Lord of the Rings by J.R.R. Tolkien
+12. The Kite Runner by Khaled Hosseini
+13. A Tale of Two Cities by Charles Dickens
+14. Moby-Dick by Herman Melville
+15. Crime and Punishment by Fyodor Dostoevsky

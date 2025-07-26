@@ -1,0 +1,12 @@
+
+Record 1
+        The name is alexa, a BE AI&DS student.
+        The Address is pune.
+        The borrowed book name is 7.
+        ------------------------------
+        
+Record 2
+        The name is alexa, a BE AI&DS student.
+        The Address is pune.
+        The book returned is Harry Potter and the Philosopher's Stone by J.K. Rowling.
+        ------------------------------
